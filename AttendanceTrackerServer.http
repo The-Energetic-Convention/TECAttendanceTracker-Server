@@ -1,0 +1,6 @@
+@AttendanceTrackerServer_HostAddress = http://localhost:5236
+
+GET {{AttendanceTrackerServer_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
